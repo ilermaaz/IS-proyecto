@@ -5,7 +5,7 @@
 3. ./monitor_unittest
 
 ## Ejecutar Aplicación
-1. Se debe compilar con g++ excluyendo el fichero de los test **monitor_unittest.cc**
+1. Se debe compilar con g++ excluyendo el fichero de los test: **monitor_unittest.cc**
 2. g++ main.cc persona.cc administrativo.cc monitor.cc visitante.cc parque.cc sendero.cc ruta.cc `puedes copiar y pegar`
 3. ./a.out
 
