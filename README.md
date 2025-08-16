@@ -1,4 +1,4 @@
-# proyectoIS
+# IS_proyecto
 ## Ejecutar Pruebas Unitarias
 1. Se compilan a través del Makefile
 2. Se ha hecho uso del framework de GoogleTest, por lo que es necesario descargar el googletest e indicar el path en el Makefile donde pone **GTEST_DIR =**
